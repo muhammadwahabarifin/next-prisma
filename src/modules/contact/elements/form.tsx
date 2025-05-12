@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import { Input } from "@/common/components/ui/input";
 import { ShinyButton } from "@/common/components/ui/shiny-button";
 import { ArrowRight } from "lucide-react";
